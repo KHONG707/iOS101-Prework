@@ -4,7 +4,7 @@ Submitted by: **Kristal Hong**
 
 **iOS101-Prework** is an app that changes the background color when the button is pressed.
 
-Time spent: **30** minutes spent in total
+Time spent: **1** hour spent in total
 
 ## Required Features
 
